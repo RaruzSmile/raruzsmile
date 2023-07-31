@@ -1,5 +1,4 @@
 ### SplashIndie 💻
-<img src="https://i.pinimg.com/564x/dd/92/40/dd9240517033225ae8c285a618d69eda.jpg" style="width: 64px; height: 64px; border-radius: 50%;">
 
 <br>
 <br>
