@@ -1,6 +1,6 @@
-### I'm $M1L3 🙂 ###
+### I'm SmlW ###
 
-**Python Coder**
+**JavaScripter**
 ```
-It's time to joke. 🤡
+Programador Junior (a mais de 3 anos)
 ```
